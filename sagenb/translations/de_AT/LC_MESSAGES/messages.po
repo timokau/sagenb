@@ -314,6 +314,10 @@ msgid "Username"
 msgstr "Benutzername"
 
 #: data/sage/html/login.html:63
+msgid "Warning: The sage notebook is in the process of being deprecated. Click here for more info."
+msgstr "Achtung: Das sage notebook wird nicht mehr lange unterstützt. Klicke hier um mehr zu erfahren."
+
+#: data/sage/html/login.html:63
 msgid "Username is not in the system"
 msgstr "Der Benutzername ist dem System unbekannt"
 
